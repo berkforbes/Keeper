@@ -144,6 +144,53 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "19"
     }
   ]
 }
