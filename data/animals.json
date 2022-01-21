@@ -191,6 +191,15 @@
         "loving"
       ],
       "id": "19"
+    },
+    {
+      "name": "floyd",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "20"
     }
   ]
 }

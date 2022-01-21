@@ -20,5 +20,8 @@
   "homepage": "https://github.com/berkforbes/Keeper#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }

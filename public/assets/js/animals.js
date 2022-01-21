@@ -42,7 +42,6 @@ const getAnimals = (formData = {}) => {
     console.log(animalData);
     printResults(animalData);
   });
-  
 };
 
 const handleGetAnimalsSubmit = event => {
